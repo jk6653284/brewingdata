@@ -21,11 +21,11 @@
 title: Brewing data
 email: jk6653284@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test test test
+  Blog with a little bit of everything
 baseurl: "/brewingdata" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jk6653284.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  jk6653284
 
 # Build settings
 theme: minima
